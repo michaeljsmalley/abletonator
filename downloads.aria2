@@ -1,0 +1,618 @@
+###########################################################
+# Ableton Live 10 + Live Packs Aria2 Input File           #
+###########################################################
+#                                                         #
+# To use, run:                                            #
+#   On MacOS: brew install aria2c                         #
+#                                                         #   
+#   $ aria2c -i thisfilename.txt                          #
+#                                                         #
+###########################################################
+#
+# Beat Tools ###################################################################
+# With more than 120 Drum and Instrument Racks, over 180 loops for slicing,    #
+# tweakable effects chains and more, Beat Tools has all the sounds you need    #
+# for hands-on beatmaking – especially with Push.                              #
+################################################################################
+http://cdn-downloads.ableton.com/livepacks/ableton/beat-tools/10.0/r46587/BeatTools_r46587_v1.1.alp
+#
+# Build and Drop ###############################################################
+# Build and Drop is loaded with ecstatic leads, enveloping bass, slamming      #
+# drums and a range of rises, sirens and sounds effects. The curated sounds    #
+# and presets inside are a creative toolbox for creating the irresistible      #
+# anticipation and release this music uses to keep the party going.            #
+################################################################################
+http://cdn-downloads.ableton.com/livepacks/ableton/build-and-drop/10.0/r47739/BuildandDrop_r47739_v1.1.alp
+#
+# Chop and Swing ###############################################################
+# Ableton’s homage to the style that made sampling an art form and put a new   #
+# kind of groove on the musical map. Chop and Swing comes loaded with inspired #
+# recordings and presets perfect for cutting up and re-combining into fresh    #
+# new tracks.                                                                  #
+################################################################################
+http://cdn-downloads.ableton.com/livepacks/ableton/chop-and-swing/10.0/r47707/ChopandSwing_r47707_v1.1.alp
+#
+# Connection Kit ###############################################################
+# If you’ve been looking to use Live with technologies like Arduino,           #
+# LEGO® MINDSTORMS® EV3 and OSC, this free set of Max for Live devices         #
+# provides exactly what you need. Now it’s simpler than ever to set up new and #
+# experimental ways to interact with and extend Live.                          #
+################################################################################
+http://cdn-downloads.ableton.com/livepacks/M4L/connection-kit/9.5/r40904/ConnectionKit_r40904_v1.0.alp
+#
+# Convolution Reverb ###########################################################
+# Convolution Reverb is a creative device for bringing new space to your       #
+# sounds – a sample-based reverb suite with hundreds of impulse responses      #
+# from real-world spaces and world-class hardware.                             #
+################################################################################
+http://cdn-downloads.ableton.com/livepacks/M4L/convolution-reverb/10.0/r47747/ConvolutionReverb_r47747_v1.0.alp
+#
+# Creative Extensions
+http://cdn-downloads.ableton.com/livepacks/M4L/creative-extensions/10.0/r48113/CreativeExtensions_r48113_v1.1.alp
+#
+# Drive and Glow ###############################################################
+# Drive and Glow combines swirling synth textures, overdriven guitars and      #
+# basses and pounding drums. Carefully curated by Ableton, this Pack is        #
+# perfect for creating tracks that radiate with saturated, indie vibes.        #
+################################################################################
+http://cdn-downloads.ableton.com/livepacks/ableton/drive-and-glow/10.0/r47713/DriveandGlow_r47713_v1.2.alp
+#
+# Drum Booth ###################################################################
+# Drum Booth contains carefully curated samples of acoustic kits recorded in a #
+# tight, dry room. Perfect on their own or as reinforcement for electronic     #
+# drums, Drum Booth also offers a selection of unique experimental recordings  #
+# not heard in standard acoustic libraries.                                    #
+################################################################################
+http://cdn-downloads.ableton.com/livepacks/ableton/drum-booth/10.0/r47626/DrumBooth_r47626_v1.1.alp
+#
+# Drum Essentials ##############################################################
+# Drum Essentials is a collection of handpicked sounds selected to cover a     #
+# wide range of styles. A flexible, highly-refined Pack to form the rhythmic   #
+# foundation of any production.                                                #
+################################################################################
+http://cdn-downloads.ableton.com/livepacks/ableton/drum-essentials/10.0/r47258/DrumEssentials_r47258_v1.1.alp
+#
+# Electric Keyboards ###########################################################
+# Electric Keyboards is a new Pack featuring three legendary multisampled      #
+# instruments: two electro-mechanical pianos and one tonewheel organ. Special  #
+# attention was given to making this Pack sound as true-to-life and organic as #
+# possible. The result is characterful electric keys for any genre.            #
+################################################################################
+
+http://cdn-downloads.ableton.com/livepacks/ableton/electric-keyboards/10.0/r47321/ElectricKeyboards_r47321_v1.1.alp
+#
+# Glitch and Wash ##############################################################
+# Glitch and Wash explores the contrast of organic texture and precise         #
+# rhythms. This Pack combines precision slices and microscopic snippets of     #
+# sound with warm ambient pads, textures and soundscapes – ready-to-mix sounds #
+# designed for heavy tweaking.                                                 #
+################################################################################
+http://cdn-downloads.ableton.com/livepacks/ableton/glitch-and-wash/10.0/r47741/GlitchandWash_r47741_v1.1.alp
+#
+# Grand Piano  #################################################################
+# Type: Sounds (https://www.ableton.com/en/packs/#?item_type=sounds)           #
+# Creator: e-instruments (https://www.ableton.com/en/packs/by/e-instruments/)  #
+# Description:                                                                 #
+# Grand Piano provides the expression and power of a world-renowned concert    #
+# grand recorded in a classical orchestra hall.                                #
+################################################################################
+http://cdn-downloads.ableton.com/livepacks/ableton/grand-piano/10.0/r46599/GrandPiano_r46599_v9.1.alp
+#
+# Granulator II ################################################################
+# Type: Max for Live (https://www.ableton.com/en/packs/#?item_type=max_for_live#
+# Creator: Robert Henke (Monolake) (https://www.ableton.com/en/packs/by/robert-henke-monolake/)#
+# Description:                                                                 #
+# One of the most popular Max for Live devices, Robert Henke’s impressive      #
+# Monolake Granulator has been updated for Live 9. Transform any sound with    #
+# this versatile instrument.                                                   #
+################################################################################
+http://cdn-downloads.ableton.com/livepacks/artists%20&%20campaigns/m4l-granulator-ii/9.1/r37909/M4LGranulatorII_r37909_v1.0.alp
+#
+# Guitar and Bass ##############################################################
+# Type: Sounds (https://www.ableton.com/en/packs/#?item_type=sounds)           #
+# Creator: e-instruments (https://www.ableton.com/en/packs/by/e-instruments/)  #
+# Description:                                                                 #
+# Guitars & Bass brings the sounds of classic electric guitars and basses to   #
+# Live 9, with multisampled Instruments that capture all the nuances and feel  #
+# of each instrument.                                                          #
+################################################################################
+http://cdn-downloads.ableton.com/livepacks/ableton/guitar-and-bass/10.0/r46598/GuitarandBass_r46598_v9.0.alp
+#
+# Latin Percussion #############################################################
+# Type: Sounds (https://www.ableton.com/en/packs/#?item_type=sounds)           #
+# Creator: Ableton (https://www.ableton.com/en/packs/by/ableton/)              #
+# Description:                                                                 #
+# Latin Percussion is a collection of acoustic percussion instruments such as  #
+# congas, bongos, timbales, claves, shakers, tambourines and bells from the    #
+# worlds of Brazilian, Afro-Cuban and African music.                           #
+################################################################################
+http://cdn-downloads.ableton.com/livepacks/ableton/latin-percussion/10.0/r46597/LatinPercussion_r46597_v9.0.alp
+#
+# Loopmasters Mixtape ##########################################################
+# Type: Sounds (https://www.ableton.com/en/packs/#?item_type=sounds)           #
+# Creator: Loopmasters (https://www.ableton.com/en/packs/by/loopmasters/)      #
+# Description:                                                                 #
+# A set of samples and loops from Loopmasters, from synthesized sound design   #
+# to acoustic drums and found sounds. Features content from Partners such as   #
+# Puremagnetik and Soniccouture, and Loopmasters' artist Pack sounds from      #
+# artists such as Digable Planets, Coldcut, Todd Terry, and more.              #
+################################################################################
+http://cdn-downloads.ableton.com/livepacks/ableton/loopmasters-mixtape/10.0/r46589/LoopmastersMixtape_r46589_v9.0.alp
+#
+# Orchestral Brass #############################################################
+# Type: Sounds                                                                 #
+# Creator: Ableton (https://www.ableton.com/en/packs/by/ableton/)              #
+# Description:                                                                 #
+# A thorough set of vivid and colorful brass instruments. Features solo and    #
+# ensemble French horn, trombone, trumpet and tuba, with a unique set of       #
+# articulations in multiple section sizes.                                     #
+################################################################################
+http://cdn-downloads.ableton.com/livepacks/ableton/orchestral-brass/10.0/r46420/OrchestralBrass_r46420_v9.0.alp
+#
+# Orchestral Mallets ###########################################################
+# Type: Sounds (https://www.ableton.com/en/packs/#?item_type=sounds)           #
+# Creator: Ableton (https://www.ableton.com/en/packs/by/ableton/)              #
+# Description:                                                                 #
+# Captures the true essence of symphonic percussion instruments in pristine    #
+# quality. Features vibraphone, marimba, xylophone, crotales, glockenspiel,    #
+# tubular bells, cymbals and timpani with a variety of articulations.          #
+################################################################################
+http://cdn-downloads.ableton.com/livepacks/ableton/orchestral-mallets/10.0/r46421/OrchestralMallets_r46421_v9.0.alp
+#
+# Orchestral Strings ###########################################################
+# Type: Sounds (https://www.ableton.com/en/packs/#?item_type=sounds)           #
+# Creator: Ableton (https://www.ableton.com/en/packs/by/ableton/)              #
+# Description:                                                                 #
+# A comprehensive selection of naturally rich and dynamic stringed             #
+# instruments. Features solo and ensemble violin, viola, cello and double      #
+# bass, all recorded in their natural positions within the orchestra, complete #
+# with a number of articulations.                                              #
+################################################################################
+http://cdn-downloads.ableton.com/livepacks/ableton/orchestral-strings/10.0/r46423/OrchestralStrings_r46423_v9.0.alp
+#
+# Orchestral Woodwinds #########################################################
+# Type: Sounds (https://www.ableton.com/en/packs/#?item_type=sounds)           #
+# Creator: Ableton (https://www.ableton.com/en/packs/by/ableton/)              #
+# Description:                                                                 #
+# Delivers a variety of clear and vibrant wind instruments. Features solo and  #
+# ensemble flute, clarinet, bassoon, oboe and English horn with a broad        #
+# selection of articulations.                                                  #
+################################################################################
+http://cdn-downloads.ableton.com/livepacks/ableton/orchestral-woodwinds/10.0/r46424/OrchestralWoodwinds_r46424_v9.0.alp
+#
+# Punch and Tilt ###############################################################
+# Punch and Tilt is a dancefloor-ready collection of sounds focused on machine #
+# rhythms, weighty bass and dark, hypnotizing melodies, textures and noises –  #
+# a rough sonic aesthetic that started with a small group of underground       #
+# producers and has grown into a worldwide scene.                              #
+################################################################################
+http://cdn-downloads.ableton.com/livepacks/ableton/punch-and-tilt/10.0/r47742/PunchandTilt_r47742_v1.1.alp
+#
+# Retro Synths #################################################################
+# Type: Sounds (https://www.ableton.com/en/packs/#?item_type=sounds)           #
+# Creator: Puremagnetik                                                        #
+# Description:                                                                 #
+# Retro Synths contains more than 4,000 samples from the greatest classic      #
+# synths of the past three decades, including rich bass from the Minimoog,     #
+# acid squelch from the Roland TB-303, and the classic digital "phase          #
+# distortion" synthesis from the Casio CZ-series.                              #
+################################################################################
+http://cdn-downloads.ableton.com/livepacks/ableton/retro-synths/10.0/r46529/RetroSynths_r46529_v9.0.alp
+#
+# Session Drums Club ###########################################################
+# Type: Sounds (https://www.ableton.com/en/packs/#?item_type=sounds)           #
+# Creator: Ableton (https://www.ableton.com/en/packs/by/ableton/)              #
+# Description:                                                                 #
+# Session Drums Club is a multisampled library of world-class acoustic drums   #
+# recorded with plenty of natural room ambience to impart realistic depth and  #
+# an organic vibe in the rhythm department.                                    #
+################################################################################
+http://cdn-downloads.ableton.com/livepacks/ableton/session-drums-club/10.0/r47401/SessionDrumsClub_r47401_v9.0.alp
+#
+# Session Drums Multimic #######################################################
+# Type: Sounds (https://www.ableton.com/en/packs/#?item_type=sounds)           #
+# Creator: Ableton (https://www.ableton.com/en/packs/by/ableton/)              #
+# Description:                                                                 #
+# Session Drums Multimic is a meticulously recorded library of acoustic drums  #
+# that reproduces the nuances of a recording session and puts you in the       #
+# engineer's seat. Session Drums gives you full control of the close mics for  #
+# each drum as well as the overheads and room mics, so you can craft the       #
+# perfect drum mix.                                                            #
+################################################################################
+http://cdn-downloads.ableton.com/livepacks/ableton/session-drums-multimic/10.0/r47440/SessionDrumsMultimic_r47440_v9.1.alp
+#
+# Session Drums Studio #########################################################
+# Type: Sounds (https://www.ableton.com/en/packs/#?item_type=sounds)           #
+# Creator: Ableton (https://www.ableton.com/en/packs/by/ableton/)              #
+# Description:                                                                 #
+# Session Drums Studio features clear and vivid studio recordings of           #
+# world-class acoustic drums, properly mic’ed and ready to play. The included  #
+# kits cover a wide range of styles and offer deep customization capabilities. #
+################################################################################
+http://cdn-downloads.ableton.com/livepacks/ableton/session-drums-studio/10.0/r47409/SessionDrumsStudio_r47409_v9.0.alp
+#
+# Skitter and Step #############################################################
+# Skitter and Step inhabits the space where growling basses, rinsing pads and  #
+# jarring melodies collide with jagged, broken percussion. The cavernous       #
+# spaces, dubby basses and tight drums are ready for production but were       #
+# designed for deep sound manipulation.                                        #
+################################################################################
+http://cdn-downloads.ableton.com/livepacks/ableton/skitter-and-step/10.0/r47718/SkitterandStep_r47718_v1.2.alp
+#
+# Surround Panner ##############################################################
+# Surround Panner is a free Max for Live device that makes mixing for          #
+# performances, installations and theaters using multi-channel speaker setups  #
+# possible in Live. Simply load the device into a track in your Live set       #
+# and use the XY control to place it anywhere in the surround field. Eight     #
+# presets allow you to choose between four-, six- and eight-channel setups.    #
+################################################################################
+http://cdn-downloads.ableton.com/livepacks/M4L/surround-panner/10.0/r47737/SurroundPanner_r47737_v1.0.alp
+#
+# Synth Essentials #############################################################
+# Synth Essentials expands the Core Library with fresh presets for Ableton’s   #
+# synths and samplers. Painstakingly created by top artists and sound          #
+# designers, Synth Essentials makes it easy to find the sounds you need with   #
+# no interruption to your creative flow.                                       #
+################################################################################
+http://cdn-downloads.ableton.com/livepacks/ableton/synth-essentials/10.0/r46620/SynthEssentials_r46620_v1.1.alp
+#
+# Vinyl Classics ###############################################################
+# Type: Sounds (https://www.ableton.com/en/packs/#?item_type=sounds)           #
+# Creator: Zero G (https://www.ableton.com/en/packs/by/zero-g/)                #
+# Vinyl Classics is a collection of Clips, Loops and Construction Kits         #
+# inspired by and reminiscent of classic dance music of the 70s, 80s and 90s.  #
+################################################################################
+http://cdn-downloads.ableton.com/livepacks/ableton/vinyl-classics/10.0/r46590/VinylClassics_r46590_v9.0.alp
+#
+#
+#
+#
+#
+#
+#
+#
+#
+# Max for Live Essentials ######################################################
+# Max for Live Essentials is a collection of audio and MIDI effects,           #
+# synthesizers and control devices made with Max for Live – for use with Live  #
+# 9.                                                                           #
+################################################################################
+http://cdn-downloads.ableton.com/livepacks/M4L/max-for-live-essentials/9.5/r40143/MaxforLiveEssentials_r40143_v2.0.alp
+#
+# DM-307A ######################################################################
+# Type: Sounds (https://www.ableton.com/en/packs/#?item_type=sounds)           #
+# Creator: Heavyocity (https://www.ableton.com/en/packs/by/heavyocity/)        #
+# Description:                                                                 #
+# Heavyocity offer up this free Pack of drum sounds from their flagship        #
+# DM-307A collection: a production-ready batch of live percussion, drum        #
+# machines and modular synth drums.                                            #
+################################################################################
+http://cdn-downloads.ableton.com/livepacks/partnerinstruments/dm-307a-free-pack-by-heavyocity/9.1.7/r39430/DM-307AFreePackbyHeavyocity_r39430_v1.0.alp
+#
+# Max 7 Pitch and Time Machines ################################################
+# Type: Max for Live (https://www.ableton.com/en/packs/#?item_type=max_for_live#
+# Creator: Cycling '74 (https://www.ableton.com/en/packs/by/cycling-74/)       #
+# Description:                                                                 #
+# Max 7 Pitch and Time Machines is a free collection of devices that make use  #
+# of new real-time intonation, pitch and time correction capabilities of Max   #
+# 7.                                                                           #
+################################################################################
+http://cdn-downloads.ableton.com/livepacks/M4L/max-7-pitch-and-time-machines/9.1.7/r43196/Max7PitchandTimeMachines_r43196_v1.0.alp
+#
+# 64 Pad Lab ###################################################################
+# Type: Sounds (https://www.ableton.com/en/packs/#?item_type=sounds)           #
+# Creator: Mad Zach (https://www.ableton.com/en/packs/by/mad-zach/)            #
+# Description:                                                                 #
+# Five extensive Drum Racks tailored for use with Push’s 64 Pad mode, produced #
+# and compiled by finger drummer par excellence Mad Zach.                      #
+################################################################################
+http://cdn-downloads.ableton.com/livepacks/artists%20&%20campaigns/64-pad-lab-by-mad-zach/9.1.7/r38594/64PadLabbyMadZach_r38594_v1.0.alp
+#
+# Break Selection for Live 9 ###################################################
+# Type: Sounds (https://www.ableton.com/en/packs/#?item_type=sounds)           #
+# Creator: Sample Magic (https://www.ableton.com/en/packs/by/sample-magic/)    #
+# Description:                                                                 #
+# Break Selection is a free pack that includes 175 drum loops recorded by some #
+# of the best drummers in the business.                                        #
+################################################################################
+http://cdn-downloads.ableton.com/livepacks/artists%20&%20campaigns/break-selection-by-sample-magic/9.1.7/r36457/BreakSelectionbySampleMagic_r36457_v1.0.alp
+#
+# Gratis Hits ##################################################################
+# Type: Max for Live (https://www.ableton.com/en/packs/#?item_type=max_for_live#
+# Creator: Max for Cats (https://www.ableton.com/en/packs/by/max-for-cats/)    #
+# Description:                                                                 #
+# Look what Max for Cats dragged in: five high-quality Max for Live devices    #
+# for free! Including an exceptional organ/additive synthesizer hybrid and     #
+# several wonderfully executed audio and MIDI devices, Gratis Hits is a gift   #
+# that will keep on giving.                                                    #
+################################################################################
+http://cdn-downloads.ableton.com/livepacks/M4L/gratis-hits-by-max-for-cats/9.1.7/r33796/GratisHitsbyMaxforCats_r33796_v1.0.alp
+#
+# Recording Hybrid Kit #########################################################
+# Type: Sounds (https://www.ableton.com/en/packs/#?item_type=sounds)           #
+# Creator: Drumdrops (https://www.ableton.com/en/packs/by/drumdrops/)          #
+# Description:                                                                 #
+# Recording Hybrid Kit is a free Pack consisting of a multi-sampled,           #
+# multi-velocity Yamaha drumset. Made up of elements of several different      #
+# drumsets, Hybrid is a great sounding, all-purpose kit from Drumdrops – the   #
+# makers of A Fistful of Drumkits.                                             #
+################################################################################
+http://cdn-downloads.ableton.com/livepacks/artists%20&%20campaigns/drumdrops-recording-hybrid-kit/9.1.7/r33783/DrumdropsRecordingHybridKit_r33783_v1.0.alp
+#
+# Beat Selection For Live 9 ####################################################
+# Type: Sounds (https://www.ableton.com/en/packs/#?item_type=sounds)           #
+# Creator: Sample Magic (https://www.ableton.com/en/packs/by/sample-magic/)    #
+# Description:                                                                 #
+# Discover 500MB of the finest drum loops from Sample Magic's award-winning    #
+# catalogue, compatible with Live 9.0.1 or higher. Encompassing a huge variety #
+# of electronic styles, Sample Magic's Beat Selection has been hand-picked to  #
+# offer beat-making inspiration.                                               #
+################################################################################
+http://cdn-downloads.ableton.com/livepacks/artists%20&%20campaigns/beat-selection-by-sample-magic/9.0.1/r32199/BeatSelectionbySampleMagic_r32199_v1.0.alp
+#
+# Max for Live Big Three #######################################################
+# Type: Max for Live (https://www.ableton.com/en/packs/#?item_type=max_for_live#
+# Creator: Cycling '74 (https://www.ableton.com/en/packs/by/cycling-74/)       #
+# Description:                                                                 #
+# A legacy Pack featuring Loop Shifter, Buffer Shuffler 1.0 and Step           #
+# Sequencer. Get surprising, inspiring, and tweaked-out results with these     #
+# three devices.                                                               #
+################################################################################
+http://cdn-downloads.ableton.com/livepacks/M4L/m4l-big-three/9.0.1/r32873/M4LBigThree_r32873_v1.0.alp
+#
+# Max for Live Building Tools ##################################################
+# Type: Max for Live (https://www.ableton.com/en/packs/#?item_type=max_for_live#
+# Creator: Cycling '74 (https://www.ableton.com/en/packs/by/cycling-74/)       #
+# Description:                                                                 #
+# Max for Live Building Tools is a set of essential devices that open up the   #
+# modular potential of Live. Effect, control, and radically reinvent your      #
+# sounds and workflow.                                                         #
+################################################################################
+http://cdn-downloads.ableton.com/livepacks/M4L/m4l-building-tools/9.0.1/r32902/M4LBuildingTools_r32902_v1.0.alp
+#
+# Max for Live Pluggo for Live #################################################
+# Type: Max for Live (https://www.ableton.com/en/packs/#?item_type=max_for_live#
+# Creator: Cycling '74 (https://www.ableton.com/en/packs/by/cycling-74/)       #
+# Description:                                                                 #
+# Pluggo for Live is a free collection of audio devices and instruments        #
+# derived from Cycling '74's Pluggo plug-in collection. This array of          #
+# full-fledged Max for Live devices provides hours of signal-mangling fun as   #
+# well as interesting examples of various approaches to plug-in design.        #
+################################################################################
+http://cdn-downloads.ableton.com/livepacks/M4L/m4l-pluggo-for-live/9.1.7/r32873/M4LPluggoforLive_r32873_v1.0.alp
+#
+# Breakbeats by KutMasta Kurt ##################################################
+# Type: Sounds                                                                 #
+# Creator: KutMasta Kurt                                                       #
+# Description:                                                                 #
+# Breakbeats by KutMasta Kurt is a set of Hip Hop breaks with a vintage sound  #
+# from producer KutMasta Kurt, who has worked with artists including Beastie   #
+# Boys, DJ Qbert, Kool Keith, The Pharcyde, Linkin Park and more.              #
+################################################################################
+http://cdn-downloads.ableton.com/livepacks/ableton/breakbeats-by-kutmasta-kurt/9.0.1/r32873/BreakbeatsbyKutMastaKurt_r32873_v9.0.alp
+#
+# Konkrete Breaks ##############################################################
+# Type: Sounds (https://www.ableton.com/en/packs/#?item_type=sounds)           #
+# Creator: Soniccouture (https://www.ableton.com/en/packs/by/soniccouture/)    #
+# Description:                                                                 #
+# Konkrete Breaks is a collection of complex and exciting MIDI drum loops      #
+# paired with a selection of sounds from Soniccouture’s acclaimed Konkrete     #
+# Drums series.                                                                #
+################################################################################
+http://cdn-downloads.ableton.com/livepacks/ableton/konkrete-breaks/9.1.7/r32873/KonkreteBreaks_r32873_v1.0.alp
+#
+# Samplification ###############################################################
+# Type: Sounds (https://www.ableton.com/en/packs/#?item_type=sounds)           #
+# Creator: Ableton (https://www.ableton.com/en/packs/by/ableton/)              #
+# Description:                                                                 #
+# We're giving away a free audio package with new sounds, presets, Instrument  #
+# Racks and Construction Kits. This is more than just a few audio files.       #
+# Samplification will kick-start your sampling skills and demonstrate what     #
+# Sampler is really capable of.                                                #
+################################################################################
+http://cdn-downloads.ableton.com/livepacks/ableton/samplification/9.0.1/r32873/Samplification_r32873_v9.1.alp
+#
+# Cyclic Waves #################################################################
+# Type: Sounds (https://www.ableton.com/en/packs/#?item_type=sounds)           #
+# Creator: Cycling '74 (https://www.ableton.com/en/packs/by/cycling-74/)       #
+# Description:                                                                 #
+# Cyclic Waves is a premium selection of audio loops taken from the Cycling    #
+# '74 'Cycles' libraries, produced and curated by Sound Library pioneer Ron    #
+# MacLeod using innovative processing tools from Cycling '74, the makers of    #
+# Max.                                                                         #
+################################################################################
+http://cdn-downloads.ableton.com/livepacks/ableton/cyclic-waves/9.0.1/r32903/CyclicWaves_r32903_v9.0.alp
+#
+# Unnatural Selection ##########################################################
+# Type: Sounds (https://www.ableton.com/en/packs/#?item_type=sounds)           #
+# Creator: Puremagnetik                                                        #
+# Description:                                                                 #
+# Unnatural Selection is a collection of Audio Clips and Construction Kits for #
+# a diverse number of genres, and includes both beats and melodic components.  #
+################################################################################
+http://cdn-downloads.ableton.com/livepacks/ableton/unnatural-selection/9.0.1/r32873/UnnaturalSelection_r32873_v9.0.alp
+#
+# Digicussion 1 ################################################################
+# Type: Sounds (https://www.ableton.com/en/packs/#?item_type=sounds)           #
+# Creator: Uppercussion (https://www.ableton.com/en/packs/by/uppercussion/)    #
+# Description:                                                                 #
+# Digicussion 1 is a versatile library of synthetic drums - great for pouring  #
+# electronic production, experimental sound design, and all kinds of rhythmic  #
+# music.                                                                       #
+################################################################################
+http://cdn-downloads.ableton.com/livepacks/ableton/digicussion-1/9.1/r32873/Digicussion1_r32873_v1.0.alp
+#
+# Designer Drums ###############################################################
+# Type: Sounds (https://www.ableton.com/en/packs/#?item_type=sounds)           #
+# Creator: Ableton (https://www.ableton.com/en/packs/by/ableton/)              #
+# Description:                                                                 #
+# Designer Drums is a set of synthesized drums that demonstrate the            #
+# versatility of Ableton Live 9's instruments and effects.                     #
+################################################################################
+http://cdn-downloads.ableton.com/livepacks/ableton/designer-drums/9.0.1/r32877/DesignerDrums_r32877_v9.0.alp
+#
+# Sound Objects Lite ###########################################################
+# Type: Sounds (https://www.ableton.com/en/packs/#?item_type=sounds)           #
+# Creator: SonArte (https://www.ableton.com/en/packs/by/sonarte/)              #
+# Description:                                                                 #
+# Sound Objects Lite is a collection of sampled percussive and bowed objects   #
+# chosen for their complex and unusual harmonics.                              #
+################################################################################
+http://cdn-downloads.ableton.com/livepacks/ableton/sound-objects-lite/9.1.7/r32873/SoundObjectsLite_r32873_v9.0.alp
+#
+# Digicussion 2 ################################################################
+# Type: Sounds (https://www.ableton.com/en/packs/#?item_type=sounds)           #
+# Creator: Uppercussion (https://www.ableton.com/en/packs/by/uppercussion/)    #
+# Description:                                                                 #
+# Digicussion 2 is a booster shot of synthetic drums for your electronic       #
+# productions - designed to provide fresh inspiration for your rhythm tracks.  #
+################################################################################
+http://cdn-downloads.ableton.com/livepacks/ableton/digicussion-2/9.0.1/r32873/Digicussion2_r32873_v1.0.alp
+#
+# Bomblastic ###################################################################
+# Type: Sounds (https://www.ableton.com/en/packs/#?item_type=sounds)           #
+# Creator: Uppercussion (https://www.ableton.com/en/packs/by/uppercussion/)    #
+# Description:                                                                 #
+# Bomblastic is a Hip Hop drum kit library featuring punchy kicks, cracking    #
+# snares, crisp claps, powerful percussion, biting shakers, hi-hats, cymbals,  #
+# toms, and more.                                                              #
+################################################################################
+http://cdn-downloads.ableton.com/livepacks/ableton/bomblastic/9.0.1/r32873/Bomblastic_r32873_v1.0.alp
+#
+# The Forge ####################################################################
+# Type: Sounds (https://www.ableton.com/en/packs/#?item_type=sounds)           #
+# Creator: Hecq (https://www.ableton.com/en/packs/by/hecq/)                    #
+# Description:                                                                 #
+# Made in the spirit of experimentation, The Forge by Hecq is a thoroughly     #
+# modern update on classic IDM and glitch, infused with a healthy dose of      #
+# cinematic sound-design.                                                      #
+################################################################################
+http://cdn-downloads.ableton.com/livepacks/ableton/the-forge-by-hecq/9.0.1/r32903/TheForgebyHecq_r32903_v9.0.alp
+#
+# DM ARP 2600 Drums ############################################################
+# Type: Sounds (https://www.ableton.com/en/packs/#?item_type=sounds)           #
+# Creator: Flatpack (https://www.ableton.com/en/packs/by/flatpack/)            #
+# Description:                                                                 #
+# DM ARP 2600 Drums is a free Live Pack consisting of 8 Ableton Drum Racks and #
+# 150 original analog percussion sounds sampled from Daniel Miller’s own ARP   #
+# 2600 modular synthesizer. Extensive controls for real-time sound tweaking    #
+# and bonus sequence clips are included.                                       #
+################################################################################
+http://cdn-downloads.ableton.com/livepacks/artists%20&%20campaigns/dm-arp-2600-drums-by-flatpack/9.0.1/r34923/DMARP2600DrumsbyFlatpack_r34923_v9.1.alp
+#
+# Granulator ###################################################################
+# Type: Max for Live (https://www.ableton.com/en/packs/#?item_type=max_for_live#
+# Creator: Robert Henke (Monolake) (https://www.ableton.com/en/packs/by/robert-henke-monolake/) #
+# Description:                                                                 #
+# Sound artist Robert Henke creates the tools that define his sound. Using Max #
+# for Live, Robert made the 'Granulator', which can transform any sound into a #
+# lush soundscape or a wall of noise. 'Granulator' is a sample-based granular  #
+# synthesizer.                                                                 #
+################################################################################
+http://cdn-downloads.ableton.com/livepacks/artists/granulator-by-monolake/9.0b45/r25369/GranulatorbyMonolake_r25369_v1.0.alp
+#
+# Schwarzonator II #############################################################
+# Type: Max for Live (https://www.ableton.com/en/packs/#?item_type=max_for_live#
+# Creator: Henrik Schwarz (https://www.ableton.com/en/packs/by/henrik-schwarz/)#
+# Description:                                                                 #
+# Jazz/soul/electronica legend Henrik Schwarz used Max for Live to create the  #
+# 'Schwarzonator II', which automatically shifts MIDI notes to a selected      #
+# musical scale.                                                               #
+################################################################################
+http://cdn-downloads.ableton.com/livepacks/artists%20&%20campaigns/schwarzonator-2-by-henrik-schwarz/9.1.7/r32873/Schwarzonator2byHenrikSchwarz_r32873_v1.0.alp
+#
+# Instant Haus #################################################################
+# Type: Max for Live (https://www.ableton.com/en/packs/#?item_type=max_for_live#
+# Creator: Alexkid (https://www.ableton.com/en/packs/by/alexkid/)              #
+# Description:                                                                 #
+# Producer Alexkid is a master of house music. He's put that knowledge into    #
+# his 'Instant Haus' Max for Live device, which instantly generates drum       #
+# patterns to craft into your own house track.                                 #
+################################################################################
+http://cdn-downloads.ableton.com/livepacks/artists/instant-haus-by-alexkid/9.0b42/r25156/InstantHausbyAlexkid_r25156_v1.0.alp
+#
+# Pitch Drop ###################################################################
+# Type: Max for Live (https://www.ableton.com/en/packs/#?item_type=max_for_live#
+# Creator: Mormo (https://www.ableton.com/en/packs/by/mormo/)                  #
+# Description:                                                                 #
+# Electronic music producer Mormo wanted a specific sound. He took matters     #
+# into his own hands and used Max for Live to make it happen in a day.         #
+################################################################################
+http://cdn-downloads.ableton.com/livepacks/artists/pitchdrop-by-mormo/9.0b45/r25158/PitchDropbyMormo_r25158_v1.0.alp
+#
+# sbx 2049 #####################################################################
+# Type: Max for Live (https://www.ableton.com/en/packs/#?item_type=max_for_live#
+# Creator: Skinnerbox (https://www.ableton.com/en/packs/by/skinnerbox/)        #
+# Description:                                                                 #
+# Berlin duo Skinnerbox present their custom Max for Live drum machine, the    #
+# sbx2049.                                                                     #
+################################################################################
+http://cdn-downloads.ableton.com/livepacks/artists/skinnerbox/8.1.3/r1/Skinnerbox2049_v8.0.alp
+#
+# Classic Synths ###############################################################
+# Type: Max for Live (https://www.ableton.com/en/packs/#?item_type=max_for_live#
+# Creator: Katsuhiro Chiba (https://www.ableton.com/en/packs/by/katsuhiro-chiba/#
+# Description: Inspired by classic 80s hardware synths, Japanese musician      #
+# Katsuhiro Chiba used Max for Live to build three synthesizers that capture   #
+# the iconic sound of the era. 'Classic Synths' contains three synthesizers    #
+# with a classic 80s sound.                                                    #
+################################################################################
+http://cdn-downloads.ableton.com/livepacks/artists%20&%20campaigns/classic-synths-by-katsuhiro-chiba/9.1.7/r32873/ClassicSynthsbyKatsuhiroChiba_r32873_v1.0.alp
+#
+# APC-Step-Sequencer ###########################################################
+# Type: Max for Live (https://www.ableton.com/en/packs/#?item_type=max_for_live#
+# Creator: Mark Egloff (https://www.ableton.com/en/packs/by/mark-egloff/)      #
+# Description:                                                                 #
+# A mild-mannered logistics expert by day, Mark Egloff creates Max for Live    #
+# devices for Live and Akai controllers at night.                              #
+################################################################################
+http://cdn-downloads.ableton.com/livepacks/artists%20&%20campaigns/apc-step-sequencer-by-mark-egloff/9.0.1/r32873/APCStepSequencerbyMarkEgloff_r32873_v1.0.alp
+#
+# Kasio ########################################################################
+# Type: Max for Live (https://www.ableton.com/en/packs/#?item_type=max_for_live#
+# Creator: Oli Larkin (https://www.ableton.com/en/packs/by/oli-larkin/)        #
+# Description:                                                                 #
+# When Oli Larkin wanted to design a software version of one of his favorite   #
+# vintage digital synths, Max for Live was the obvious choice. Kasio features  #
+# Phase Distortion synthesis inspired by a classic line of digital             #
+# synthesizers.                                                                #
+################################################################################
+http://cdn-downloads.ableton.com/livepacks/artists%20&%20campaigns/kasio-by-oli-larkin/9.0.1/r32873/KasiobyOliLarkin_r32873_v1.0.alp
+#
+# Solid Sounds #################################################################
+# Type: Sounds (https://www.ableton.com/en/packs/#?item_type=sounds)           #
+# Description:                                                                 #
+# Features loops and presets in a variety of musical styles for all Live/Live  #
+# Intro users.                                                                 #
+################################################################################
+http://cdn-downloads.ableton.com/livepacks/artists/solid-sounds/9.0.1/r28796/SolidSounds_r28796_v9.0.alp
+#
+# Mad Beatz ####################################################################
+# Type: Sounds (https://www.ableton.com/en/packs/#?item_type=sounds)           #
+# Creator: KJ Sawka (https://www.ableton.com/en/packs/by/kj-sawka/)            #
+# Description:                                                                 #
+# A loop library produced exclusively for Ableton by KJ Sawka. Includes drum   #
+# loops, bass and melodic loops, Ableton groove templates and MIDI grooves     #
+# recorded by KJ Sawka.                                                        #
+################################################################################
+http://cdn-downloads.ableton.com/livepacks/artists%20&%20campaigns/kj-sawka-mad-beatz/9.0.1/r32873/KJSawkaMadBeatz_r32873_v9.0.alp
+#
+# Kapture ######################################################################
+# Type: Max for Live (https://www.ableton.com/en/packs/#?item_type=max_for_live#
+# Creator: Richie Hawtin (Plastikman) & Liine (https://www.ableton.com/en/packs/by/richie-hawtin-plastikman-liine/) #
+# Description:                                                                 #
+# For the 2010 reincarnation of Plastikman, Richie Hawtin's grand artistic     #
+# vision required the masterminds at Liine to design a Max for Live device to  #
+# help the tour become reality. 'Kapture' saves the state of your Live Set as  #
+# a preset that can be instantly recalled.                                     #
+################################################################################
+http://cdn-downloads.ableton.com/livepacks/artists%20&%20campaigns/kapture-by-plastikman-and-liine/9.1/r32873/KapturebyPlastikmanandLiine_r32873_v1.0.alp
+#
+# Drum Machines ################################################################
+# Type: Sounds (https://www.ableton.com/en/packs/#?item_type=sounds)           #
+# Creator: Ableton                                                             #
+# Description:                                                                 #
+# Drum Machines offers a choice selection of classic drum machines,            #
+# meticulously sampled to faithfully reproduce the original sounds.            #
+################################################################################
+http://cdn-downloads.ableton.com/livepacks/ableton/drum-machines/9.0.1/r32873/DrumMachines_r32873_v9.0.alp
